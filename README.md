@@ -43,7 +43,7 @@ pip install trimesh pyrender matplotlib pyyaml
 ## How to Use
 
 1. **Launch the Notebook**
-   Open `intern_assignment.ipynb` in Jupyter or VS Code.
+   Open `3d_model.ipynb` in Jupyter or VS Code.
 
 2. **Enter a Prompt**
    Example:
