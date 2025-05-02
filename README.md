@@ -70,7 +70,7 @@ pip install trimesh pyrender matplotlib pyyaml
 
 ---
 
-## 🧪 Libraries Used
+## Libraries Used
 
 * `torch`, `torchvision`, `torchaudio` — for PyTorch backend
 * `trimesh`, `pyrender`, `matplotlib` — for rendering and visualization
@@ -78,7 +78,7 @@ pip install trimesh pyrender matplotlib pyyaml
 
 ---
 
-## 🧠 Thought Process
+## Thought Process
 
 * Selected Shap-E due to its well-maintained, open-source support for text-to-3D.
 * Focused on clarity and modularity for reusability.
