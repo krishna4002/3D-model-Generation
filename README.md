@@ -49,7 +49,7 @@ pip install trimesh pyrender matplotlib pyyaml
    Example:
 
    ```python
-   prompt = "a small toy airplane"
+   prompt = "a small toy car"
    ```
 
 3. **Generate and Export**
