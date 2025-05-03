@@ -1,0 +1,14 @@
+# Install PyTorch (Colab usually already has it)
+!pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+# Clone OpenAI's Shap-E repository
+!git clone https://github.com/openai/shap-e.git
+%cd shap-e
+
+# Install Shap-E and other dependencies
+!pip install -e .
+!pip install trimesh pyrender matplotlib pyyaml
+
+
+# To check the README.md file, you could visit my GitHub account
+# Github repository - https://github.com/krishna4002/3D-model-Generation
