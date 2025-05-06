@@ -14,7 +14,7 @@ This prototype uses OpenAI's **Shap-e** to generate 3D models from simple text p
 
 ---
 
-### Example: A small red car
+### Example: A pink birthday cake
 
 *Generated 3D Output:*
 ![Output](Screenshots/3D_output_image/input_text_prompt2.png)
