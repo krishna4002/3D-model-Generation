@@ -1,0 +1,9 @@
+1. input text prompt_1 = "A tall green tree"
+
+2. input text prompt_2 = "A pink birthday cake"
+
+3. input text prompt_3 = "A short brown dog"
+
+4. input text prompt_4 = "A yellow rubber duck"
+
+5. input text prompt_5 = "A wooden dining table"
