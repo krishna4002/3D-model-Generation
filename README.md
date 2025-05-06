@@ -31,12 +31,6 @@ git clone https://github.com/openai/shap-e.git
 cd shap-e
 ````
 
-### 2. Create a Virtual Environment (Optional but Recommended)
-
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
 
 ### 3. Install Dependencies
 
